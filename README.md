@@ -1,2 +1,4 @@
-# hello-world
-This is a test repository
+## Welcome to my Hello World Repository
+
+# Introduction
+Everything within this repository will only be for **testing** purposes
